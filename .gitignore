@@ -1,0 +1,11 @@
+# Intermediate and output files
+obj/
+bin/
+
+# VS database
+.vs/
+Gdi32RawHook.VC.db
+Gdi32RawHook.VC.VC.opendb
+
+# Migration user file
+*.vcxproj.user
